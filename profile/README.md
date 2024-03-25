@@ -11,4 +11,5 @@
 
 Присоединяйтесь к нам:
 - [Discord](http://discord.gg/FsAWsyUS3E)
-![mini_banner](https://github.com/NightCodeTeam/.github/assets/89302161/d179c905-2a4e-4357-a868-5f87f1982cf6)
+
+[mini_banner](https://github.com/NightCodeTeam/.github/assets/89302161/d179c905-2a4e-4357-a868-5f87f1982cf6)
